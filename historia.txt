@@ -1,5 +1,6 @@
 Historia de Diego
 
-Tiene 25 años está estudiando Git
+Tiene 25 años y está estudiando Git, nacido en Ecuador,
+vive en Riobamba.
 
 Continuará.
