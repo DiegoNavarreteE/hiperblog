@@ -43,3 +43,12 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    background: cornflowerblue;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+    padding: 0.5em;
+}
