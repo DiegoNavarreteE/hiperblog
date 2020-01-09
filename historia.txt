@@ -2,3 +2,5 @@ Historia de Diego
 
 Tiene 25 años está estudiando Git
 Mañana hablaremos de su vida laboral.
+
+Master 1
